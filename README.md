@@ -6,14 +6,16 @@ Quantum ESPRESSO is already installed in the Quantum Mobile (see below), a virtu
 
 # Using the Quantum Mobile Virtual Machine
 
-The setup of the Quantum Mobile requires you to download the [Quantum Mobile image](https://github.com/marvel-nccr/quantum-mobile/releases/) (we use the v21.06.04 release) and the open-source Virtual Box (VBox) virtualizaton software. In order to import the image inside VBox, please refer to [this documentation](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html).
-
-NOTE: If you are running this tutorial on a laptop, beware that some manufacturers disable the Virtualization technology at the BIOS level. This feature can be reactivated, but we would advise against doing it yourself unless you know exactly what you are doing, and it might be wiser to install Quantum ESPRESSO v6.7 natively on your machine - for this, [see instructions](https://www.quantum-espresso.org/Doc/user_guide.pdf)
+The setup of the Quantum Mobile requires you to download the [Quantum Mobile image](https://github.com/marvel-nccr/quantum-mobile/releases/) (we use the v21.06.04 release) and the open-source Virtual Box (VBox) virtualizaton software. See the [Instructions.pdf](https://github.com/materialscloud-org/learn-fireside-hubbard/blob/main/Instructions.pdf) on how to setup the Quantum Mobile on your computer.
 
 # Exercises
 
- - [Exercise 1](1_DFT/README.md): Standard DFT calculation
+See the [Tutorial.pdf](https://github.com/materialscloud-org/learn-fireside-hubbard/blob/main/Tutorial.pdf) on how to do the exercises which are isted below:
 
-## Bibliography
-1. P. Giannozzi, S. Baroni, N. Bonini, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, G. L. Chiarotti, M. Cococcioni, I. Dabo, et al., Journal of physics: Condensed matter 21, 395502 (2009).
-2. P. Giannozzi, O. Andreussi, T. Brumme, O. Bunau, M. B. Nardelli, M. Calandra, R. Car, C. Cavazzoni, D. Ceresoli, M. Cococcioni, et al., Journal of Physics: Condensed Matter 29, 465901 (2017).
+ - [Exercise 1](1_DFT): Standard DFT calculation for CoO
+ - [Exercise 2](2_Hubbard_parameters): Calculation of Hubbard parameters for CoO
+ - [Exercise 3](2_DFT+U+V): DFT+U+V calculation for CoO
+
+# Bibliography
+1. P. Giannozzi et al., J. Phys.: Condens. Matter 21, 395502 (2009).
+2. P. Giannozzi et al., J. Phys.: Condens. Matter 29, 465901 (2017).
