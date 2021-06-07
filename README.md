@@ -1,8 +1,8 @@
 # learn-fireside-hubbard
 
-This is a tutorial for density-functional theory (DFT) with extended Hubbard functionals (DFT+U+V) where U and V are on-site and inter-site Hubbard parameters. The DFT+U+V tutorial is based on the open-source [Quantum ESPRESSO distribution](https://www.quantum-espresso.org/) [1,2].
+This is a tutorial on how to use density-functional theory (DFT) with extended Hubbard functionals (DFT+U+V), where U and V are on-site and inter-site Hubbard parameters. It is based on the open-source [Quantum ESPRESSO distribution](https://www.quantum-espresso.org/) [1,2].
 
-Quantum ESPRESSO (v6.7) is installed in the Quantum Mobile - a virtual machine (VM) that can run on Windows, MacOS, or Linux.
+Quantum ESPRESSO (v6.7) is installed in the Quantum Mobile - a virtual machine that can run on Windows, MacOS, or Linux.
 
 # Using the Quantum Mobile Virtual Machine
 
