@@ -2,11 +2,7 @@
 
 This is a tutorial for density-functional theory (DFT) with extended Hubbard functionals (DFT+U+V) where U and V are on-site and inter-site Hubbard parameters. The DFT+U+V tutorial is based on the open-source [Quantum ESPRESSO distribution](https://www.quantum-espresso.org/) (QE)[1,2].
 
-In each subfolder you will find the required instructions to run the relevant exercise. [Instructions](files/handout.pdf) and all the input and pseudopotential files needed can be found in the ```files``` folder.
-
-For general calculations, SSSP pseudopotentials (PPs) files can be downloaded from the [Materials Cloud](https://www.materialscloud.org/discover/sssp/table/efficiency#sssp-license). The tutorial is based on the PBEsol generalizd-gradient approximation (GGA).
-
-All codes required to run the examples are already installed in the Quantum Mobile (see below), a virtual machine (VM) that can run on any Windows, Mac, or Linux laptop/desktop. Both the codes and Quantum Mobile are open source. 
+Quantum ESPRESSO is already installed in the Quantum Mobile (see below), a virtual machine (VM) that can run on any Windows, Mac, or Linux laptop/desktop.
 
 # Using the Quantum Mobile Virtual Machine
 
