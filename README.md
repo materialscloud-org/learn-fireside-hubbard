@@ -6,7 +6,7 @@ Quantum ESPRESSO (v6.7) is installed in the Quantum Mobile - a virtual machine t
 
 # Using the Quantum Mobile Virtual Machine
 
-See the [Instructions.pdf](https://github.com/materialscloud-org/learn-fireside-hubbard/blob/main/Instructions.pdf) on how to setup the Quantum Mobile on your computer.
+See the [Instructions.pdf](https://github.com/materialscloud-org/learn-fireside-hubbard/blob/main/Instructions.pdf) on how to setup the Quantum Mobile on your computer. (Note: the hyperlinks in the file [Instructions.pdf](https://github.com/materialscloud-org/learn-fireside-hubbard/blob/main/Instructions.pdf) work only when you download this file and open it on your computer.)
 
 # Exercises
 
