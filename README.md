@@ -14,7 +14,7 @@ See the [Tutorial.pdf](https://github.com/materialscloud-org/learn-fireside-hubb
 
  - [Exercise 1](1_DFT): Standard DFT calculation for CoO
  - [Exercise 2](2_Hubbard_parameters): Calculation of Hubbard parameters for CoO
- - [Exercise 3](2_DFT+U+V): DFT+U+V calculation for CoO
+ - [Exercise 3](3_DFT+U+V): DFT+U+V calculation for CoO
 
 # Bibliography
 1. P. Giannozzi et al., J. Phys.: Condens. Matter 21, 395502 (2009).
