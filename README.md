@@ -16,6 +16,10 @@ See the [Tutorial.pdf](https://github.com/materialscloud-org/learn-fireside-hubb
  - [Exercise 2](2_Hubbard_parameters): Calculation of Hubbard parameters for CoO
  - [Exercise 3](3_DFT+U+V): DFT+U+V calculation for CoO
 
+# Video
+
+[The video of this tutorial](https://www.youtube.com/watch?v=WSABAqPWNH0) is available on YouTube on the official [Quantum ESPRESSO channel](https://www.youtube.com/channel/UCApGrcNfEyEdP7IR8YPyxiQ).
+
 # Bibliography
 1. P. Giannozzi et al., J. Phys.: Condens. Matter 21, 395502 (2009).
 2. P. Giannozzi et al., J. Phys.: Condens. Matter 29, 465901 (2017).
